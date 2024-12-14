@@ -84,6 +84,8 @@
     </dependency>
 	</dependencies>
 
+	<FinalName>backend</FinalName>
+
 	<build>
 		<plugins>
 			<plugin>
