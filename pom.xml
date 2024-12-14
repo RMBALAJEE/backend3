@@ -84,9 +84,10 @@
     </dependency>
 	</dependencies>
 
-	<FinalName>backend</FinalName>
+	
 
 	<build>
+		<FinalName>backend</FinalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
